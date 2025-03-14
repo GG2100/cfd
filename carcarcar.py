@@ -22,7 +22,7 @@ while True:
     if operation == "0":
         print("Error")
     break
-
+g
 
 
 
