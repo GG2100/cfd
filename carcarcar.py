@@ -15,10 +15,8 @@ while True:
         elif operation == "*":
             return num1 * num2
         elif operation == "/":
-            num2 != 0
             return num1 / num2
-        elif operation == "/":
-            num2 == 0
+        else:
             print("Error")
 
     print(calc(num1, num2, operation))
